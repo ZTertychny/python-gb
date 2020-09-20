@@ -34,12 +34,8 @@ print(f'your time is {hours_output}:{minutes_output}:{seconds_output}')
 
 # 3. Узнайте у пользователя число n. Найдите сумму чисел n + nn + nnn. Например, пользователь ввёл число 3. Считаем 3 + 33 + 333 = 369.
 
-
 some_number = input('Write your number: ')
 print(int(some_number) + int(some_number * 2) + int(some_number * 3))
-
-
-
 
 
 # 4. Пользователь вводит целое положительное число. Найдите самую большую цифру в числе.
@@ -78,7 +74,6 @@ if income_input > costs_input:
     print(f'The profit ratio per employee is {profit_per_employee}')
 else:
     print('Company has negative revenue indicators')
-
 
 
 
