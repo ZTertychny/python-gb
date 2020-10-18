@@ -1,0 +1,4 @@
+firm_1 ООО 10000 5000
+homelander OAO 15000 10000
+nirvana OOO 13000 20000
+slash OAO 7000 10000
