@@ -7,7 +7,7 @@ el_in_rows = 0
 for ind in range(32, 128):
     el_in_rows += 1
     if el_in_rows <= 10:
-        output += chr(ind) + ' '
+        output += f'{ind} - {chr(ind)}; '
     else:
         output += '\n'
         el_in_rows = 0
